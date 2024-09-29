@@ -1,4 +1,4 @@
-# Planificador_de_Tareas
+# Planificador de Tareas
 
 ## Funcionalidad:
 - Permite crear tareas con fecha de inicio y fin
